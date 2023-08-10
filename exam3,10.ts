@@ -192,13 +192,9 @@
 // interface Object {
 //   keys(): string[];
 // }
+
 // Object.prototype.keys = (): string[] => {
 //   return Object.keys(this);
 // };
 
 // console.log(obj.keys());
-
-
-
-
-
